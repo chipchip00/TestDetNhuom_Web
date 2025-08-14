@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0bff15b.css",
-    "main.js": "/static/js/main.449022de.js",
-    "static/media/auth.png": "/static/media/auth.7a0a2f234127b05d4eff.png",
-    "index.html": "/index.html"
+    "main.css": "/TestDetNhuom_Web/static/css/main.b0bff15b.css",
+    "main.js": "/TestDetNhuom_Web/static/js/main.7f3b4971.js",
+    "static/media/auth.png": "/TestDetNhuom_Web/static/media/auth.7a0a2f234127b05d4eff.png",
+    "index.html": "/TestDetNhuom_Web/index.html"
   },
   "entrypoints": [
     "static/css/main.b0bff15b.css",
-    "static/js/main.449022de.js"
+    "static/js/main.7f3b4971.js"
   ]
 }
